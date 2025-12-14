@@ -1,0 +1,75 @@
+site_name: Technically, I'm Writing
+site_url: https://sitename.example
+theme:
+  name: material
+  font:
+    text: Montserrat
+    code: Red Hat Mono
+  icon:
+    logo: fontawesome/solid/c
+  favicon: assets/favicon.ico
+  features:
+    - content.action.edit
+    - content.action.view
+    - content.code.annotate
+    - content.code.copy
+    - navigation.top
+    - navigation.sections
+    - navigation.tabs
+  palette:
+    # Dark Mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Dark mode
+      primary: green
+      accent: indigo
+
+    # Light Mode
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Light mode
+      primary: blue
+      accent: deep orange
+
+
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - admonition
+  - pymdownx.details
+
+copyright: Copyright &copy; 2025 - 2026 Chris Castro
+
+extra:
+  social:
+    - icon: fontawesome/brands/github 
+      link: https://github.com/praxandanthilus
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/in/castrochris
+
+plugins:
+  - blog:
+      blog_dir: blog
+      post_excerpt_separator: <!-- more -->
+  # - search
+
+nav:
+- About: index.md
+- Resume: resume.md
+- Posts:
+  - blog: blog/index.md
+- LinkedIn: https://www.linkedin.com/in/castrochris/
+- BayCon: http://www.baycon.org
