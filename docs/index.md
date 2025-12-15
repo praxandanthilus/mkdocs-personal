@@ -1,4 +1,4 @@
-# About
+# About Me
 
 My name is Chris Castro. I’ve been writing professionally in one form or another since my college days. I grew up in the Bay Area, surrounded by tech, and so it suffused nearly every aspect of my life. My dad worked for Apple—I cut my chops on HyperCard, BASIC, and QuickTime. I learned the basics of object-oriented programming from BBSes, issues of MacWorld, and trial-and-error. Sure, I played outside just like other kids, but my true love was the computer. 
 
@@ -16,4 +16,4 @@ I tell stories on my blog. I would love to connect with employers who are doing 
 
 \--- --- --- ---
 
-Chris lives and works in San Jose, CA. He's a married and a dad of one human and four cats. You can contact Chris at [cbcastro@gmail.com](mailto:cbcastro@gmail.com) or via [LinkedIn](https://www.linkedin.com/in/castrochris/).
+Chris lives and works in San Jose, CA. He's married and a dad of one human and four cats. You can contact Chris at [cbcastro@gmail.com](mailto:cbcastro@gmail.com) or via [LinkedIn](https://www.linkedin.com/in/castrochris/).
