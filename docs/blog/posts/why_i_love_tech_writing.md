@@ -2,9 +2,9 @@
 draft: false 
 date: 2025-12-14 
 categories:
-  - Technical Writing
-  - Users
-  - Musing
+  - technical writing
+  - user
+  - editorial
 ---
 
 # Why I Love Being a Technical Writer
