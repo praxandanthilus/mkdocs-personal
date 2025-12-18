@@ -8,7 +8,7 @@ categories:
   - follow
 ---
 
-## Follow the Leader (Part I)
+# Follow the Leader (Part I)
 
 ![Follow the leader (chess)](../../assets/follow_the_leader.jpg)
 
