@@ -7,7 +7,7 @@ categories:
   - editorial
 ---
 
-# Why I Love Being a Technical Writer
+## Why I Love Being a Technical Writer
 
 I love what I do. And I love to write.
 

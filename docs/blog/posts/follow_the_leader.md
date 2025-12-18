@@ -10,6 +10,8 @@ categories:
 
 ## Follow the Leader (Part I)
 
+![Follow the leader (chess)](../../assets/follow_the_leader.jpg)
+
 No technical writer's skill set is complete without reading the words in the work of other technical writers and technical content developers. I didn't get to where I am today by being entirely siloed. It used to be that your only sources for learning and growing would be to attend STC (Society for Technical Communications) meetings, conferences, your own small network of writers (or team, or both), and maybe the library or your book collection. That isn't to say that those aren't valuable resources—I spent years learning that way—but now with the robust information ecosystem we have with social media sites like Linkedin and Substack, We can follow, watch, listen, and learn from technical writers across the globe!
 
 I'd like to share a few of my favorites here. I don't intend the list to be limited to just these, I've intentionally named the post part one because I'd like to make this a series. There's a lot to learn and read from this list however, enough to keep you occupied for a while (even I have some catching up to do.). I also don't intend to keep these lists limited to technical writers. Kraft aside, There's a lot of stuff worth learning from other professionals, even outside of the tech industry.
