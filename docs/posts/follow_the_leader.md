@@ -2,7 +2,7 @@
 draft: false 
 date: 2025-12-17 
 categories:
-  - tecnical writing
+  - technical writing
   - blog
   - like
   - follow
@@ -10,7 +10,7 @@ categories:
 
 # Follow the Leader (Part I)
 
-![Follow the leader (chess)](../../assets/follow_the_leader.jpg)
+![Follow the leader (chess)](../assets/follow_the_leader.jpg)
 
 No technical writer's skill set is complete without reading the words in the work of other technical writers and technical content developers. I didn't get to where I am today by being entirely siloed. It used to be that your only sources for learning and growing would be to attend STC (Society for Technical Communications) meetings, conferences, your own small network of writers (or team, or both), and maybe the library or your book collection. That isn't to say that those aren't valuable resources—I spent years learning that way—but now with the robust information ecosystem we have with social media sites like Linkedin and Substack, We can follow, watch, listen, and learn from technical writers across the globe!
 

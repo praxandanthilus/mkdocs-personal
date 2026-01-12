@@ -33,6 +33,8 @@ theme:
       primary: blue
       accent: deep orange
 
+extra_css:
+  - stylesheets/extra.css
 
 markdown_extensions:
   - attr_list
@@ -62,14 +64,16 @@ extra:
 
 plugins:
   - blog:
-      blog_dir: blog
+      blog_dir: .
+      post_url_format: "blog/{date}/{slug}"
       post_excerpt_separator: <!-- more -->
   # - search
 
 nav:
-- About: index.md
+- Blog: index.md
+- About: about.md
 - Resume: resume.md
-- Posts:
-  - blog: blog/index.md
+#- Posts:
+#  - blog: blog/index.md
 - LinkedIn: https://www.linkedin.com/in/castrochris/
 - BayCon: http://www.baycon.org
