@@ -1,0 +1,4 @@
+/* Hides the "Archive" and "Categories" sections in the sidebar of blog index pages */
+.md-sidebar--secondary .md-nav--lifted {
+    display: none;
+}
